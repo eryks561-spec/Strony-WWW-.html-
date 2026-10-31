@@ -1,0 +1,16 @@
+.tytul{
+    margin: center;
+    border-style: groove;
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: rgba(232, 26, 26, 0.863);
+
+}
+body{
+    background-color: rgb(252, 253, 209);
+}
+
+
+.hh{
+text-align: center;
+}
